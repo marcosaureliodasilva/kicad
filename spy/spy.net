@@ -1,0 +1,218 @@
+# EESchema Netlist Version 1.1 created  15/5/2008-17:39:10
+(
+ ( 482C4623 C2 C1 CAPAPOL
+  ( 1 N-000008 )
+  ( 2 N-000007 )
+ )
+ ( 482C462F C2 C2 CAPAPOL
+  ( 1 N-000005 )
+  ( 2 N-000013 )
+ )
+ ( 482C4638 C2 C3 CAPAPOL
+  ( 1 N-000006 )
+  ( 2 N-000012 )
+ )
+ ( 482C46A5 C2 C4 C
+  ( 1 N-000003 )
+  ( 2 N-000012 )
+ )
+ ( 482C46AD C2 C5 C
+  ( 1 N-000003 )
+  ( 2 N-000013 )
+ )
+ ( 482C46B0 C2 C6 C
+  ( 1 N-000014 )
+  ( 2 N-000004 )
+ )
+ ( 482C46B4 C2 C7 C
+  ( 1 N-000006 )
+  ( 2 N-000011 )
+ )
+ ( 482C4641 C2 C8 CAPAPOL
+  ( 1 N-000003 )
+  ( 2 N-000013 )
+ )
+ ( 482C48AF CV3-30PF C9 CTRIM
+  ( 1 N-000003 )
+  ( 2 N-000014 )
+ )
+ ( 482C4705 D4 D1 DIODE
+  ( 1 N-000009 )
+  ( 2 N-000010 )
+ )
+ ( 482C4708 D4 D2 DIODE
+  ( 1 N-000010 )
+  ( 2 N-000009 )
+ )
+ ( 482C4D2C INDUCTOR_V L1 INDUCTOR
+  ( 1 N-000003 )
+  ( 2 N-000014 )
+ )
+ ( 482C4DBB PINTST P1 CONN_1
+  ( 1 N-000008 )
+ )
+ ( 482C4DC2 PINTST P2 CONN_1
+  ( 1 N-000013 )
+ )
+ ( 482C4D85 PINTST P3 CONN_1
+  ( 1 N-000014 )
+ )
+ ( 482C4DA9 PINTST P4 CONN_1
+  ( 1 N-000003 )
+ )
+ ( 482C4DAD PINTST P5 CONN_1
+  ( 1 N-000015 )
+ )
+ ( 482C4D94 PINTST P6 CONN_1
+  ( 1 N-000015 )
+ )
+ ( 482C4D9B PINTST P7 CONN_1
+  ( 1 N-000013 )
+ )
+ ( 482C4E27 1pin P8 CONN_1
+  ( 1 ? )
+ )
+ ( 482C4E2A 1pin P9 CONN_1
+  ( 1 ? )
+ )
+ ( 482C4C2E TO39EBC Q1 NPN
+  ( 1 N-000004 )
+  ( 2 N-000012 )
+  ( 3 N-000014 )
+ )
+ ( 482C46D8 R4 R1 R
+  ( 1 N-000003 )
+  ( 2 N-000008 )
+ )
+ ( 482C46DB R4 R2 R
+  ( 1 N-000003 )
+  ( 2 N-000005 )
+ )
+ ( 482C46DE R4 R3 R
+  ( 1 N-000005 )
+  ( 2 N-000013 )
+ )
+ ( 482C46E1 R4 R4 R
+  ( 1 N-000009 )
+  ( 2 N-000007 )
+ )
+ ( 482C46E4 R4 R5 R
+  ( 1 N-000006 )
+  ( 2 N-000010 )
+ )
+ ( 482C46E7 R4 R6 R
+  ( 1 N-000003 )
+  ( 2 N-000012 )
+ )
+ ( 482C46EA R4 R7 R
+  ( 1 N-000012 )
+  ( 2 N-000013 )
+ )
+ ( 482C46EC R4 R8 R
+  ( 1 N-000004 )
+  ( 2 N-000013 )
+ )
+ ( 482C489A RV2 RV1 POT
+  ( 1 N-000011 )
+  ( 2 N-000009 )
+  ( 3 N-000009 )
+ )
+ ( 482C477A 8dip300 U1 CA3140
+  ( 1 ? )
+  ( 2 N-000009 )
+  ( 3 N-000005 )
+  ( 4 N-000013 )
+  ( 5 ? )
+  ( 6 N-000006 )
+  ( 7 N-000003 )
+  ( 8 ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ CP*
+ SM*
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ CP*
+ SM*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}

@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2007-11-29-a) date = 12/3/2008-12:33:57
+
+BeginCmp
+TimeStamp = 47D6DF7D;
+Reference = C1;
+ValeurCmp = 22nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E2A3;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E208;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E20C;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E053;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E05A;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E05F;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E07F;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E094;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E09F;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E1E4;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E1FF;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E203;
+Reference = P11;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E53E;
+Reference = P12;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E542;
+Reference = P13;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E02F;
+Reference = Q1;
+ValeurCmp = bc558;
+IdModule  = TO39EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6E032;
+Reference = Q2;
+ValeurCmp = bc558;
+IdModule  = TO39EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6DF9F;
+Reference = R1;
+ValeurCmp = 470kom;
+IdModule  = R4;
+EndCmp
+
+EndListe

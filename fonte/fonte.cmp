@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by Cvpcb (2007-11-29-a) date = 11/3/2008-12:56:35
+
+BeginCmp
+TimeStamp = 47D52E98;
+Reference = C1;
+ValeurCmp = 1000uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D52EA3;
+Reference = C2;
+ValeurCmp = 10uf;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D5431F;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D54329;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D5432C;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D5429C;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D582F3;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D582F8;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D52E03;
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = LM78XX;
+EndCmp
+
+EndListe

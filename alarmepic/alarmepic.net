@@ -1,0 +1,235 @@
+# EESchema Netlist Version 1.1 created  6/5/2008-18:55:29
+(
+ ( 4820A859 C2 C1 CP
+  ( 1 N-000006 )
+  ( 2 N-000024 )
+ )
+ ( 4820A860 C2 C2 CP
+  ( 1 N-000020 )
+  ( 2 N-000024 )
+ )
+ ( 4820A82D C2 C3 C
+  ( 1 N-000020 )
+  ( 2 N-000024 )
+ )
+ ( 48208EE8 D4 D1 DIODE
+  ( 1 N-000012 )
+  ( 2 N-000006 )
+ )
+ ( 48208EF8 D4 D2 DIODE
+  ( 1 N-000016 )
+  ( 2 N-000006 )
+ )
+ ( 48209165 PINTST P1 CONN_1
+  ( 1 N-000017 )
+ )
+ ( 4820916D PINTST P2 CONN_1
+  ( 1 N-000011 )
+ )
+ ( 48209174 PINTST P3 CONN_1
+  ( 1 N-000018 )
+ )
+ ( 48209196 PINTST P4 CONN_1
+  ( 1 N-000006 )
+ )
+ ( 48089288 PINTST P5 CONN_1
+  ( 1 N-000014 )
+ )
+ ( 48089283 PINTST P6 CONN_1
+  ( 1 N-000014 )
+ )
+ ( 4808927A PINTST P7 CONN_1
+  ( 1 N-000006 )
+ )
+ ( 4808927F PINTST P8 CONN_1
+  ( 1 N-000024 )
+ )
+ ( 4820919E PINTST P9 CONN_1
+  ( 1 N-000009 )
+ )
+ ( 482091A2 PINTST P10 CONN_1
+  ( 1 N-000019 )
+ )
+ ( 482091A6 PINTST P11 CONN_1
+  ( 1 N-000010 )
+ )
+ ( 482091AB PINTST P12 CONN_1
+  ( 1 N-000006 )
+ )
+ ( 480893DA 1pin P13 CONN_1
+  ( 1 ? )
+ )
+ ( 480893DE 1pin P14 CONN_1
+  ( 1 ? )
+ )
+ ( 480892AA PINTST P15 CONN_1
+  ( 1 N-000021 )
+ )
+ ( 480892A0 PINTST P16 CONN_1
+  ( 1 N-000008 )
+ )
+ ( 480892AD PINTST P17 CONN_1
+  ( 1 N-000004 )
+ )
+ ( 480892A4 PINTST P18 CONN_1
+  ( 1 N-000005 )
+ )
+ ( 48089290 PINTST P19 CONN_1
+  ( 1 N-000001 )
+ )
+ ( 48208F2D PINTST P20 CONN_1
+  ( 1 N-000002 )
+ )
+ ( 48089292 PINTST P21 CONN_1
+  ( 1 N-000024 )
+ )
+ ( 48208F38 PINTST P22 CONN_1
+  ( 1 N-000024 )
+ )
+ ( 48208EB5 TO39EBC Q1 NPN
+  ( 1 N-000024 )
+  ( 2 N-000015 )
+  ( 3 N-000012 )
+ )
+ ( 48208ED3 TO39EBC Q2 NPN
+  ( 1 N-000024 )
+  ( 2 N-000007 )
+  ( 3 N-000016 )
+ )
+ ( 4820A900 R4 R1 R
+  ( 1 N-000021 )
+  ( 2 N-000024 )
+ )
+ ( 4820A904 R4 R2 R
+  ( 1 N-000008 )
+  ( 2 N-000024 )
+ )
+ ( 4820A923 R4 R3 R
+  ( 1 N-000015 )
+  ( 2 N-000023 )
+ )
+ ( 4820A91C R4 R4 R
+  ( 1 N-000007 )
+  ( 2 N-000022 )
+ )
+ ( 4820A919 R4 R5 R
+  ( 1 N-000001 )
+  ( 2 N-000013 )
+ )
+ ( 4820A916 R4 R6 R
+  ( 1 N-000002 )
+  ( 2 N-000003 )
+ )
+ ( 4820A90F R4 R7 R
+  ( 1 N-000020 )
+  ( 2 N-000004 )
+ )
+ ( 4820A90B R4 R8 R
+  ( 1 N-000020 )
+  ( 2 N-000005 )
+ )
+ ( 4820A230 RELAY-1RG RL1 RELE_1C
+  ( B1 N-000006 )
+  ( B2 N-000012 )
+  ( C N-000011 )
+  ( NA N-000017 )
+  ( NF N-000018 )
+ )
+ ( 4820A237 RELAY-1RG RL2 RELE_1C
+  ( B1 N-000006 )
+  ( B2 N-000016 )
+  ( C N-000019 )
+  ( NA N-000009 )
+  ( NF N-000010 )
+ )
+ ( 4808AB24 LM78XX U1 7805
+  ( GND N-000024 )
+  ( VI N-000006 )
+  ( VO N-000020 )
+ )
+ ( 48089169 18dip300 U2 PIC16F628A
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 N-000020 )
+  ( 5 N-000024 )
+  ( 6 N-000003 )
+  ( 7 N-000013 )
+  ( 8 N-000022 )
+  ( 9 N-000023 )
+  ( 10 ? )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 N-000020 )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 N-000008 )
+  ( 18 N-000021 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}

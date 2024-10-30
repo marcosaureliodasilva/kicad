@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (2007-11-29-a) date = 12/3/2008-12:22:02
+
+BeginCmp
+TimeStamp = 47D6C27C;
+Reference = C1;
+ValeurCmp = 47nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C264;
+Reference = C2;
+ValeurCmp = 47nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C26F;
+Reference = C3;
+ValeurCmp = 10nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C31C;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C321;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C325;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C329;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C32E;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C332;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C6D2;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C6D6;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C2F4;
+Reference = Q1;
+ValeurCmp = bc548;
+IdModule  = TO39EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C2F9;
+Reference = Q2;
+ValeurCmp = bc548;
+IdModule  = TO39EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C2B7;
+Reference = R1;
+ValeurCmp = 1kom;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C2BF;
+Reference = R2;
+ValeurCmp = 1kom;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C2C3;
+Reference = R3;
+ValeurCmp = 47kom;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D6C2C7;
+Reference = R4;
+ValeurCmp = 47kom;
+IdModule  = R4;
+EndCmp
+
+EndListe

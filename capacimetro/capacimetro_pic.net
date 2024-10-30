@@ -1,0 +1,554 @@
+# EESchema Netlist Version 1.1 created  3/9/2010-15:01:06
+(
+ ( 4C810C33 $noname  P36 CONN_1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( 4C810C2D $noname  P35 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( 4C810BD8 $noname  R23 R {Lib=R}
+  (    1 N-000004 )
+  (    2 N-000003 )
+ )
+ ( 4C810BD4 $noname  R24 R {Lib=R}
+  (    1 N-000027 )
+  (    2 N-000028 )
+ )
+ ( 4C810826 $noname  P34 CONN_1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( 4C81081F $noname  P33 CONN_1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( 4C81081A $noname  P32 CONN_1 {Lib=CONN_1}
+  (    1 N-000027 )
+ )
+ ( 4C810811 $noname  P31 CONN_1 {Lib=CONN_1}
+  (    1 N-000004 )
+ )
+ ( 4C81064A $noname  R22 R {Lib=R}
+  (    1 N-000026 )
+  (    2 GND )
+ )
+ ( 4C810642 $noname  R21 R {Lib=R}
+  (    1 N-000005 )
+  (    2 GND )
+ )
+ ( 4C81063E $noname  R20 R {Lib=R}
+  (    1 N-000025 )
+  (    2 GND )
+ )
+ ( 4C810615 $noname  R19 R {Lib=R}
+  (    1 N-000023 )
+  (    2 GND )
+ )
+ ( 4C81055D $noname  R18 R {Lib=R}
+  (    1 N-000024 )
+  (    2 GND )
+ )
+ ( 48D56D4A $noname  P30 CONN_1 {Lib=CONN_1}
+  (    1  ? )
+ )
+ ( 48D56D46 $noname  P29 CONN_1 {Lib=CONN_1}
+  (    1  ? )
+ )
+ ( 48D56A1C $noname  P28 CONN_1 {Lib=CONN_1}
+  (    1 N-000011 )
+ )
+ ( 48D56A16 $noname  P27 CONN_1 {Lib=CONN_1}
+  (    1 N-000012 )
+ )
+ ( 48D56A12 $noname  P26 CONN_1 {Lib=CONN_1}
+  (    1 N-000013 )
+ )
+ ( 48D56A0E $noname  P25 CONN_1 {Lib=CONN_1}
+  (    1 N-000014 )
+ )
+ ( 48D56A08 $noname  P24 CONN_1 {Lib=CONN_1}
+  (    1 N-000015 )
+ )
+ ( 48D569FF $noname  R17 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000011 )
+ )
+ ( 48D569FB $noname  R16 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000012 )
+ )
+ ( 48D569F4 $noname  R15 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000013 )
+ )
+ ( 48D569EF $noname  R14 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000014 )
+ )
+ ( 48D569E0 $noname  R13 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000015 )
+ )
+ ( 48D56906 $noname  P23 CONN_1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( 48D568FB $noname  P22 CONN_1 {Lib=CONN_1}
+  (    1 N-000016 )
+ )
+ ( 48D568BD $noname  R12 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000016 )
+ )
+ ( 48D565D9 $noname  U2 PIC16F628A {Lib=PIC16F628A}
+  (    1 N-000019 )
+  (    2 N-000008 )
+  (    3 N-000029 )
+  (    4 N-000016 )
+  (    5 GND )
+  (    6 N-000002 )
+  (    7 N-000028 )
+  (    8 N-000003 )
+  (    9 N-000026 )
+  (   10 N-000005 )
+  (   11 N-000025 )
+  (   12 N-000023 )
+  (   13 N-000024 )
+  (   14 N-000035 )
+  (   15 N-000032 )
+  (   16 N-000033 )
+  (   17 N-000010 )
+  (   18 N-000009 )
+ )
+ ( 48D56555 $noname  R11 R {Lib=R}
+  (    1 N-000029 )
+  (    2 GND )
+ )
+ ( 48D56552 $noname  R10 R {Lib=R}
+  (    1 N-000008 )
+  (    2 GND )
+ )
+ ( 48D5654E $noname  R9 R {Lib=R}
+  (    1 N-000019 )
+  (    2 GND )
+ )
+ ( 48D56548 $noname  R8 R {Lib=R}
+  (    1 N-000009 )
+  (    2 GND )
+ )
+ ( 48D56543 $noname  R7 R {Lib=R}
+  (    1 N-000010 )
+  (    2 GND )
+ )
+ ( 48D56504 $noname  P21 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( 48D564FE $noname  P20 CONN_1 {Lib=CONN_1}
+  (    1 N-000009 )
+ )
+ ( 48D564F0 $noname  P19 CONN_1 {Lib=CONN_1}
+  (    1 N-000019 )
+ )
+ ( 48D564E6 $noname  P18 CONN_1 {Lib=CONN_1}
+  (    1 N-000008 )
+ )
+ ( 48D564DF $noname  P17 CONN_1 {Lib=CONN_1}
+  (    1 N-000029 )
+ )
+ ( 48D56454 $noname  P16 CONN_1 {Lib=CONN_1}
+  (    1 N-000017 )
+ )
+ ( 48D5644B $noname  P15 CONN_1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( 48D56442 $noname  P14 CONN_1 {Lib=CONN_1}
+  (    1 N-000017 )
+ )
+ ( 48D5643E $noname  P13 CONN_1 {Lib=CONN_1}
+  (    1 +12V )
+ )
+ ( 48D56431 $noname  P12 CONN_1 {Lib=CONN_1}
+  (    1 N-000020 )
+ )
+ ( 48D5642C $noname  P11 CONN_1 {Lib=CONN_1}
+  (    1 N-000007 )
+ )
+ ( 48D56427 $noname  P10 CONN_1 {Lib=CONN_1}
+  (    1 N-000021 )
+ )
+ ( 48D56421 $noname  P9 CONN_1 {Lib=CONN_1}
+  (    1 N-000006 )
+ )
+ ( 48D5641B $noname  P8 CONN_1 {Lib=CONN_1}
+  (    1 N-000022 )
+ )
+ ( 48D56413 $noname  P7 CONN_1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( 48D563FF $noname  P6 CONN_1 {Lib=CONN_1}
+  (    1 N-000024 )
+ )
+ ( 48D563F8 $noname  P5 CONN_1 {Lib=CONN_1}
+  (    1 N-000023 )
+ )
+ ( 48D563F3 $noname  P4 CONN_1 {Lib=CONN_1}
+  (    1 N-000025 )
+ )
+ ( 48D563ED $noname  P3 CONN_1 {Lib=CONN_1}
+  (    1 N-000005 )
+ )
+ ( 48D563E7 $noname  P2 CONN_1 {Lib=CONN_1}
+  (    1 N-000026 )
+ )
+ ( 48D563CB $noname  P1 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( 48D5632A $noname  R6 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000020 )
+ )
+ ( 48D56321 $noname  R5 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000007 )
+ )
+ ( 48D56316 $noname  R4 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000021 )
+ )
+ ( 48D5630F $noname  R3 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000006 )
+ )
+ ( 48D56305 $noname  R2 R {Lib=R}
+  (    1 N-000035 )
+  (    2 N-000022 )
+ )
+ ( 48D562F2 $noname  R1 R {Lib=R}
+  (    1 N-000001 )
+  (    2 N-000002 )
+ )
+ ( 48D56203 $noname  X1 CRYSTAL {Lib=CRYSTAL}
+  (    1 N-000033 )
+  (    2 N-000032 )
+ )
+ ( 48D561E1 $noname  C3 C {Lib=C}
+  (    1 N-000032 )
+  (    2 GND )
+ )
+ ( 48D561DE $noname  C2 C {Lib=C}
+  (    1 N-000033 )
+  (    2 GND )
+ )
+ ( 48D561A7 $noname  C1 C {Lib=C}
+  (    1 N-000035 )
+  (    2 GND )
+ )
+ ( 48D56185 $noname  C5 CAPAPOL {Lib=CAPAPOL}
+  (    1 N-000035 )
+  (    2 GND )
+ )
+ ( 48D5617F $noname  C4 CAPAPOL {Lib=CAPAPOL}
+  (    1 +12V )
+  (    2 GND )
+ )
+ ( 48D5614F $noname  U1 7805 {Lib=7805}
+  (   VO N-000035 )
+  (   VI +12V )
+  (  GND GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R23
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R24
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R22
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R21
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R20
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R19
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R18
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R17
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ CP*
+ SM*
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 ""
+ P35 1
+ P1 1
+ R1 1
+Net 2 ""
+ U2 6
+ R1 2
+Net 3 ""
+ R23 2
+ U2 8
+Net 4 ""
+ R23 1
+ P31 1
+Net 5 ""
+ R21 1
+ U2 10
+ P3 1
+Net 6 ""
+ P9 1
+ R3 2
+Net 7 ""
+ P11 1
+ R5 2
+Net 8 ""
+ U2 2
+ R10 1
+ P18 1
+Net 9 ""
+ U2 18
+ R8 1
+ P20 1
+Net 10 ""
+ U2 17
+ R7 1
+ P21 1
+Net 11 ""
+ P28 1
+ R17 2
+Net 12 ""
+ P27 1
+ R16 2
+Net 13 ""
+ P26 1
+ R15 2
+Net 14 ""
+ P25 1
+ R14 2
+Net 15 ""
+ P24 1
+ R13 2
+Net 16 ""
+ P22 1
+ R12 2
+ U2 4
+Net 17 ""
+ P16 1
+ P14 1
+Net 18 "+12V"
+ P13 1
+ C4 1
+ U1 VI
+Net 19 ""
+ U2 1
+ R9 1
+ P19 1
+Net 20 ""
+ P12 1
+ R6 2
+Net 21 ""
+ P10 1
+ R4 2
+Net 22 ""
+ P8 1
+ R2 2
+Net 23 ""
+ R19 1
+ U2 12
+ P5 1
+Net 24 ""
+ R18 1
+ U2 13
+ P6 1
+Net 25 ""
+ R20 1
+ U2 11
+ P4 1
+Net 26 ""
+ R22 1
+ U2 9
+ P2 1
+Net 27 ""
+ R24 1
+ P32 1
+Net 28 ""
+ R24 2
+ U2 7
+Net 29 ""
+ U2 3
+ R11 1
+ P17 1
+Net 32 ""
+ U2 15
+ X1 2
+ C3 1
+Net 33 ""
+ U2 16
+ X1 1
+ C2 1
+Net 34 "GND"
+ P36 1
+ P34 1
+ P33 1
+ R22 2
+ R21 2
+ R20 2
+ R19 2
+ R18 2
+ P23 1
+ U2 5
+ R11 2
+ R10 2
+ R9 2
+ R8 2
+ R7 2
+ P15 1
+ P7 1
+ C3 2
+ C2 2
+ C1 2
+ C5 2
+ C4 2
+ U1 GND
+Net 35 ""
+ R17 1
+ R16 1
+ R15 1
+ R14 1
+ R13 1
+ R12 1
+ U2 14
+ R6 1
+ R5 1
+ R4 1
+ R3 1
+ R2 1
+ C1 1
+ C5 1
+ U1 VO
+}
+#End

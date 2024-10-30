@@ -1,0 +1,82 @@
+# EESchema Netlist Version 1.1 created  12/3/2008-12:33:57
+(
+ ( 47D6DF7D C2 C1 22nF
+  ( 1 N-000007 )
+  ( 2 N-000008 )
+ )
+ ( 47D6E2A3 D4 D1 DIODE
+  ( 1 N-000003 )
+  ( 2 N-000008 )
+ )
+ ( 47D6E208 PINTST P1 CONN_1
+  ( 1 N-000003 )
+ )
+ ( 47D6E20C PINTST P2 CONN_1
+  ( 1 N-000008 )
+ )
+ ( 47D6E053 PINTST P3 CONN_1
+  ( 1 N-000011 )
+ )
+ ( 47D6E05A PINTST P4 CONN_1
+  ( 1 N-000006 )
+ )
+ ( 47D6E05F PINTST P5 CONN_1
+  ( 1 N-000005 )
+ )
+ ( 47D6E07F PINTST P6 CONN_1
+  ( 1 N-000005 )
+ )
+ ( 47D6E094 PINTST P7 CONN_1
+  ( 1 N-000011 )
+ )
+ ( 47D6E09F PINTST P8 CONN_1
+  ( 1 N-000004 )
+ )
+ ( 47D6E1E4 PINTST P9 CONN_1
+  ( 1 N-000010 )
+ )
+ ( 47D6E1FF PINTST P10 CONN_1
+  ( 1 N-000010 )
+ )
+ ( 47D6E203 PINTST P11 CONN_1
+  ( 1 N-000011 )
+ )
+ ( 47D6E53E 1pin P12 CONN_1
+  ( 1 ? )
+ )
+ ( 47D6E542 1pin P13 CONN_1
+  ( 1 ? )
+ )
+ ( 47D6E02F TO39EBC Q1 bc558
+  ( 1 N-000009 )
+  ( 2 N-000007 )
+  ( 3 N-000011 )
+ )
+ ( 47D6E032 TO39EBC Q2 bc558
+  ( 1 N-000006 )
+  ( 2 N-000009 )
+  ( 3 N-000004 )
+ )
+ ( 47D6DF9F R4 R1 470kom
+  ( 1 N-000006 )
+  ( 2 N-000007 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}
